@@ -1,0 +1,41 @@
+h1 {
+   color: #000000;
+   font-family: arial, sans-serif;   
+}
+
+.fondo-titulo-lemon{
+    background-color: #FEF400;
+}
+.fondo-titulo-carrot{
+    background-color: #FEA500;
+}
+
+h2{
+    color: #000000;
+    font-family: "Times New Roman", serif;
+    font-style: italic;
+    background-color: #EAEAEA;
+}
+
+.titulo-ingredientes{
+    font-style: italic;
+}
+
+p{
+    color: #444444;
+    font-family: arial, sans-serif;
+}
+
+ul li{
+    font-family: arial, sans-serif;
+}
+
+ol li{
+    font-family: arial, sans-serif;
+}
+
+.vinculos{
+    color: #313131;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+}
