@@ -1,41 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Playfair+Display:ital,wght@1,700&display=swap');
+
 h1 {
-   color: #000000;
-   font-family: arial, sans-serif;   
+   color: #ffffff;
+   font-family: 'Inter', sans-serif;;
+   font-weight: bold;   
 }
 
-.fondo-titulo-lemon{
-    background-color: #FEF400;
-}
 .fondo-titulo-carrot{
     background-color: #FEA500;
 }
 
 h2{
     color: #000000;
-    font-family: "Times New Roman", serif;
+    font-family: 'Playfair Display', serif;
     font-style: italic;
     background-color: #EAEAEA;
 }
 
 .titulo-ingredientes{
     font-style: italic;
+    font-family: 'Playfair Display', serif;
 }
 
 p{
     color: #444444;
-    font-family: arial, sans-serif;
+    font-family: 'Inter', sans-serif;;
 }
 
 ul li{
-    font-family: arial, sans-serif;
+    font-family: 'Inter', sans-serif;;
 }
 
 ol li{
-    font-family: arial, sans-serif;
+    font-family: 'Inter', sans-serif;;
 }
 
 .vinculos{
     color: #313131;
     text-decoration: none;
-    font-family: arial, sans-serif;
+    font-family: 'Inter', sans-serif;
+}
+
+.cabecera{
+    background-image: url("../img/lemon-background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.parrafotitulo{
+    color: white;
+    font-weight:bold;
 }
