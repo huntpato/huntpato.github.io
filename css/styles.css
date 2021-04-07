@@ -6,8 +6,9 @@ h1 {
    font-weight: bold;   
 }
 
-.fondo-titulo-carrot{
-    background-color: #FEA500;
+.colorLaCamada{
+    color: black;
+    font-size: 20px;
 }
 
 h2{
@@ -43,6 +44,12 @@ ol li{
 
 .cabecera{
     background-image: url("../img/lemon-background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.cabeceraZanahoria{
+    background-image: url("../img/carrot-background.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
